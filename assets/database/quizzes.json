@@ -1,0 +1,470 @@
+[
+  {
+    "image": "blocks",
+    "level": "facil",
+    "title": "Flutter Básico",
+    "questionAnswered": 2,
+    "questions": [
+      {
+        "title": "O que é Flutter?",
+        "answers": [
+          {
+            "title": "Uma linguagem de programação",
+            "isRight": false
+          },
+          {
+            "title": "Um framework para desenvolvimento mobile",
+            "isRight": true
+          },
+          {
+            "title": "Um banco de dados",
+            "isRight": false
+          },
+          {
+            "title": "Um sistema operacional",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "Qual linguagem o Flutter usa?",
+        "answers": [
+          {
+            "title": "Java",
+            "isRight": false
+          },
+          {
+            "title": "Dart",
+            "isRight": true
+          },
+          {
+            "title": "JavaScript",
+            "isRight": false
+          },
+          {
+            "title": "Python",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "O que é um Widget no Flutter?",
+        "answers": [
+          {
+            "title": "Uma função matemática",
+            "isRight": false
+          },
+          {
+            "title": "Um elemento de interface",
+            "isRight": true
+          },
+          {
+            "title": "Um tipo de variável",
+            "isRight": false
+          },
+          {
+            "title": "Um arquivo de configuração",
+            "isRight": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "laptop",
+    "level": "medio",
+    "title": "Dart Intermediário",
+    "questionAnswered": 0,
+    "questions": [
+      {
+        "title": "O que é null safety no Dart?",
+        "answers": [
+          {
+            "title": "Uma forma de evitar erros de null pointer",
+            "isRight": true
+          },
+          {
+            "title": "Um tipo de loop",
+            "isRight": false
+          },
+          {
+            "title": "Uma classe especial",
+            "isRight": false
+          },
+          {
+            "title": "Um operador matemático",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "Qual operador é usado para null safety?",
+        "answers": [
+          {
+            "title": "!",
+            "isRight": false
+          },
+          {
+            "title": "??",
+            "isRight": false
+          },
+          {
+            "title": "?",
+            "isRight": true
+          },
+          {
+            "title": "&&",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "O que significa 'late' no Dart?",
+        "answers": [
+          {
+            "title": "Inicialização tardia de variável",
+            "isRight": true
+          },
+          {
+            "title": "Uma função assíncrona",
+            "isRight": false
+          },
+          {
+            "title": "Um tipo de classe",
+            "isRight": false
+          },
+          {
+            "title": "Um modificador de acesso",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "Como declarar uma lista imutável?",
+        "answers": [
+          {
+            "title": "List<String> lista = [];",
+            "isRight": false
+          },
+          {
+            "title": "const List<String> lista = [];",
+            "isRight": true
+          },
+          {
+            "title": "var lista = [];",
+            "isRight": false
+          },
+          {
+            "title": "final lista = [];",
+            "isRight": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data",
+    "level": "dificil",
+    "title": "Gerenciamento de Estado",
+    "questionAnswered": 1,
+    "questions": [
+      {
+        "title": "O que é Provider no Flutter?",
+        "answers": [
+          {
+            "title": "Um widget de layout",
+            "isRight": false
+          },
+          {
+            "title": "Uma ferramenta de gerenciamento de estado",
+            "isRight": true
+          },
+          {
+            "title": "Um tipo de animação",
+            "isRight": false
+          },
+          {
+            "title": "Um componente de navegação",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "Qual a diferença entre StatefulWidget e StatelessWidget?",
+        "answers": [
+          {
+            "title": "StatefulWidget pode mudar seu estado",
+            "isRight": true
+          },
+          {
+            "title": "StatelessWidget é mais rápido",
+            "isRight": false
+          },
+          {
+            "title": "Não há diferença",
+            "isRight": false
+          },
+          {
+            "title": "StatefulWidget não pode ter filhos",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "O que é BLoC pattern?",
+        "answers": [
+          {
+            "title": "Um tipo de widget",
+            "isRight": false
+          },
+          {
+            "title": "Business Logic Component",
+            "isRight": true
+          },
+          {
+            "title": "Uma biblioteca de animações",
+            "isRight": false
+          },
+          {
+            "title": "Um framework de testes",
+            "isRight": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "programming",
+    "level": "perito",
+    "title": "Arquitetura Avançada",
+    "questionAnswered": 0,
+    "questions": [
+      {
+        "title": "O que é Clean Architecture?",
+        "answers": [
+          {
+            "title": "Uma forma de limpar o código",
+            "isRight": false
+          },
+          {
+            "title": "Um padrão arquitetural com camadas bem definidas",
+            "isRight": true
+          },
+          {
+            "title": "Uma ferramenta de debugging",
+            "isRight": false
+          },
+          {
+            "title": "Um tipo de teste",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "O que são Use Cases na Clean Architecture?",
+        "answers": [
+          {
+            "title": "Casos de uso da aplicação",
+            "isRight": true
+          },
+          {
+            "title": "Widgets especiais",
+            "isRight": false
+          },
+          {
+            "title": "Tipos de erro",
+            "isRight": false
+          },
+          {
+            "title": "Métodos de uma classe",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "O que é Dependency Injection?",
+        "answers": [
+          {
+            "title": "Uma forma de injetar dependências",
+            "isRight": true
+          },
+          {
+            "title": "Um tipo de widget",
+            "isRight": false
+          },
+          {
+            "title": "Uma biblioteca externa",
+            "isRight": false
+          },
+          {
+            "title": "Um padrão de navegação",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "O que é Repository Pattern?",
+        "answers": [
+          {
+            "title": "Um padrão para abstração de dados",
+            "isRight": true
+          },
+          {
+            "title": "Uma forma de organizar arquivos",
+            "isRight": false
+          },
+          {
+            "title": "Um tipo de banco de dados",
+            "isRight": false
+          },
+          {
+            "title": "Uma ferramenta de versionamento",
+            "isRight": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "code",
+    "level": "facil",
+    "title": "Widgets Básicos",
+    "questionAnswered": 3,
+    "questions": [
+      {
+        "title": "Qual widget é usado para texto?",
+        "answers": [
+          {
+            "title": "Text",
+            "isRight": true
+          },
+          {
+            "title": "Label",
+            "isRight": false
+          },
+          {
+            "title": "TextWidget",
+            "isRight": false
+          },
+          {
+            "title": "String",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "Como criar uma coluna vertical?",
+        "answers": [
+          {
+            "title": "Row",
+            "isRight": false
+          },
+          {
+            "title": "Column",
+            "isRight": true
+          },
+          {
+            "title": "Stack",
+            "isRight": false
+          },
+          {
+            "title": "Container",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "Qual widget é usado para botões?",
+        "answers": [
+          {
+            "title": "Button",
+            "isRight": false
+          },
+          {
+            "title": "ElevatedButton",
+            "isRight": true
+          },
+          {
+            "title": "ClickButton",
+            "isRight": false
+          },
+          {
+            "title": "TouchButton",
+            "isRight": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "phone",
+    "level": "medio",
+    "title": "Navegação",
+    "questionAnswered": 1,
+    "questions": [
+      {
+        "title": "Como navegar para outra tela?",
+        "answers": [
+          {
+            "title": "Navigator.push()",
+            "isRight": true
+          },
+          {
+            "title": "Router.go()",
+            "isRight": false
+          },
+          {
+            "title": "Screen.navigate()",
+            "isRight": false
+          },
+          {
+            "title": "Page.open()",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "Como voltar para tela anterior?",
+        "answers": [
+          {
+            "title": "Navigator.back()",
+            "isRight": false
+          },
+          {
+            "title": "Navigator.pop()",
+            "isRight": true
+          },
+          {
+            "title": "Navigator.return()",
+            "isRight": false
+          },
+          {
+            "title": "Navigator.previous()",
+            "isRight": false
+          }
+        ]
+      },
+      {
+        "title": "O que é MaterialPageRoute?",
+        "answers": [
+          {
+            "title": "Uma rota com animação Material Design",
+            "isRight": true
+          },
+          {
+            "title": "Um tipo de widget",
+            "isRight": false
+          },
+          {
+            "title": "Uma classe de dados",
+            "isRight": false
+          },
+          {
+            "title": "Um método de navegação",
+            "isRight": false
+          }
+        ]
+      }
+    ]
+  }
+]
